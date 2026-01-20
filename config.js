@@ -13,7 +13,7 @@ try {
 const defaultSettings = {
   antilink: 'on',
   antilinkall: 'off',
-  autobio: 'on',
+  autobio: 'off',
   antidelete: 'on',
   antitag: 'on',
   antibot: 'off',
@@ -24,14 +24,14 @@ antistatusmention: 'off',
   gptdm: 'off',
   welcomegoodbye: 'off',
   autoread: 'off',
-  mode: 'public',
+  mode: 'private',
   prefix: '.',
-  autolike: 'on',
-  autoview: 'on',
-  wapresence: 'recording',
+  autolike: 'off',
+  autoview: 'off',
+  wapresence: 'typing',
   antiedit: 'private',
     menuTitle: "KING MD VIP",
-    antigroupmention: 'off'
+    antigroupmention: 'on'
 };
 
 // ================= MODE DETECTION =================
